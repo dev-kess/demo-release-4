@@ -1,0 +1,22 @@
+name: Release
+
+on:
+  push:
+    branches: 
+    - main
+
+jobs:
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+    steps:
+    - name: release-please-action
+      uses: google-github-actions/release-please-action@v3.5.1
+      id: release
+      with:
+        token: ${{ secrets.DEV_TOKEN }}
+        command: github-release
+        release-type: node
+        include-v-in-tag: false
+        prerelease: true
+        release-as: "0.1.0"
