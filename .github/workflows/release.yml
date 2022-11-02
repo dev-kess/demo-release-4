@@ -15,7 +15,7 @@ jobs:
       id: release
       with:
         token: ${{ secrets.DEV_TOKEN }}
-        command: github-release
+        #command: github-release
         release-type: node
         include-v-in-tag: false
         prerelease: true

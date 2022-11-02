@@ -2,7 +2,7 @@
   "name": "demo-release-4",
   "version": "0.0.0",
   "description": "prueba de proyecto con release",
-  "main": "index-4.js",
+  "main": "index-5.js",
   "scripts": {
     "lint-fix": "echo \"lint-fix-1\"",
     "test": "echo \"test-1\"",
