@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/nutqu/demo-release-4/compare/0.1.0...0.1.1) (2022-11-04)
+
+
+### Bug Fixes
+
+* se cambia la generacion de versiones ([10fdbfa](https://github.com/nutqu/demo-release-4/commit/10fdbfa5bce82affd10436f9efe671ba71693eea))
+
 ## 0.1.0 (2022-11-02)
 
 
