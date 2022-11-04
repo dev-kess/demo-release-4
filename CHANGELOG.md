@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/nutqu/demo-release-4/compare/0.1.1...0.2.0) (2022-11-04)
+
+
+### Features
+
+* solucion Issue ([f59c76b](https://github.com/nutqu/demo-release-4/commit/f59c76ba481cf99728beb2f2e463883a85bee3cd))
+
 ## [0.1.1](https://github.com/nutqu/demo-release-4/compare/0.1.0...0.1.1) (2022-11-04)
 
 
